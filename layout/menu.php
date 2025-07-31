@@ -4,14 +4,14 @@
 <div id="sidebar-menu" class="sidebar-menu">
 <ul>
 <li class="active">
-<a href="index.html"><img src="assets/img/icons/dashboard.svg" alt="img"><span> Panel</span> </a>
+<a href="index.php"><img src="assets/img/icons/dashboard.svg" alt="img"><span> Panel</span> </a>
 </li>
 <li class="submenu">
-<a href="javascript:void(0);"><img src="assets/img/icons/product.svg" alt="img"><span> Producto</span> <span class="menu-arrow"></span></a>
+<a  href="javascript:void(0);"><img src="assets/img/icons/product.svg" alt="img"><span> Producto</span> <span class="menu-arrow"></span></a>
 <ul>
 <li><a href="productlist.php">Lista de productos</a></li>
-<li><a href="addproduct.html">Agregar producto</a></li>
-<li><a href="categorylist.html">Lista de Categorias</a></li>
+<li><a href="addproduct.php">Agregar producto</a></li>
+<li><a href="categorylist.php"  >Lista de Categorias</a></li>
 <li><a href="addcategory.html">Agregar Categoria</a></li>
 <li><a href="subcategorylist.html">Lista de Subcategoria</a></li>
 <li><a href="subaddcategory.html">Agregar Subcategoria</a></li>
