@@ -12,8 +12,8 @@
 <li><a href="productlist.php">Lista de productos</a></li>
 <li><a href="addproduct.php">Agregar producto</a></li>
 <li><a href="categorylist.php"  >Lista de Categorias</a></li>
-<li><a href="addcategory.html">Agregar Categoria</a></li>
-<li><a href="subcategorylist.html">Lista de Subcategoria</a></li>
+<li><a href="addcategory.php">Agregar Categoria</a></li>
+<li><a href="subcategorylist.php">Lista de Subcategoria</a></li>
 <li><a href="subaddcategory.html">Agregar Subcategoria</a></li>
 <li><a href="brandlist.html">Lista de marcas</a></li>
 <li><a href="addbrand.html">Agregar marca</a></li>
